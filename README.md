@@ -8,5 +8,5 @@ Current only supports unix-like systems.
 # Usage
 midi2dat.py *input_file.midi* -o *output_file.dat* 
 ## Flags
--v --verbose: Print out the notes as they are being processed.
+-v --verbose: Print out the notes as they are being processed.  
 -p --play: Play the notes after finishing.
